@@ -1,0 +1,40 @@
+.page-header{text-align: center;}
+.free-training{text-align: center;}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(fonts/roboto300.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/roboto400.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/roboto700.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: url(fonts/roboto100.woff);
+}
+
+
+h1{font-family: 'Roboto', sans-serif; font-weight:700; font-size:50px; color: #6699CC; }
+h2{font-family: 'Roboto', sans-serif; font-weight:300; color:#777;}
+.its-free{font-family: 'Handlee', cursive; margin:-160px 0 0 330px; font-size:30px; color:#777;}
+.cust-btn{padding:15px; width:200px;}
+.requirement{font-size:18px; color:#777; font-family: 'Roboto', sans-serif; font-weight:300; margin:20px 0px;}
+.vSpacer-50{clear:both; height:50px;}
+.youtube-video{width:420px; height:315px; margin:0px auto;}
+#regstration-form{margin:20px inherit 20px inherit;}
+.footer{text-align: center; padding:15px; margin-top:20px; border-top:1px solid #CCC;}
+.focus{}
+.item{height:300px; background: #CCC;}

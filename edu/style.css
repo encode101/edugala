@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(fonts/roboto300.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/roboto400.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/roboto700.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: url(fonts/roboto100.woff);
+}
+
+.ui-grid-b img{width:100%; max-height:240px; max-width:320px;border: 5px solid #cca17f; display:block; margin:0px auto; border-radius:3px; cursor:pointer;}
+.selected{/*0background: url("img/selected.png") no-repeat;*/; border: 5px solid #6699CC!important; cursor:pointer;}
+.catTitle{font-family: 'Roboto', sans-serif; font-weight:400!important; text-align: center; margin:10px 0px; font-size:90%;}
+h1{font-family: 'Roboto', sans-serif; font-weight:700;}
+.punch{font-family: 'Roboto', sans-serif; font-weight:100; text-align:center; background: #6699CC; color:#FFF; padding:20px 0px;}
+.ui-loader{border:0px; opacity:5;height:32px; width: 32px;}
+.ui-loader .ui-icon-loading{background: #F4E4CD url("ajax-loader.gif") no-repeat; height:32px; width: 32px;}

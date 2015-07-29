@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(fonts/roboto300.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/roboto400.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url(fonts/roboto700.woff);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: url(fonts/roboto100.woff);
+}
+
+.logo{margin:20px 0px;}
+.banner{height:370px; background-color:teal; border-radius:30px 4px 30px 4px; margin-top:20px; border:1px solid #999;}
+.regForm{width:350px; float: right; height:270px; margin:50px 100px 0 0; background-color: #FFF;  border-radius:30px 0px 30px 0px; padding:20px; box-shadow:0 0px 200px 2px #FFF; border:1px solid #CCC; }
+.startingWith{font-size:25px; color:teal; font-weight:bold; margin-bottom:20px;}
+/*body{background: url("../images/bg-body.jpg")}*/
+
+
+.bannerContent{padding:10px 20px; color: #FFF; position: absolute;}
+.banner h1, .banner h2{color:#FFF;}
+.bannerContent ul{font-size:15px; line-height: 23px; margin-top:20px;}
+.slab-a{background-color: #73B4AC;  border-radius:0 0 4px 4px; padding: 10px;}
+.slab-b{background-color:  #4395D1; border-radius:0 0 4px 4px; padding: 10px;}
+.slab-c{background-color:  #FF7139; border-radius:0 0 4px 4px; padding: 10px;}
+.pricing{margin:20px 0px;}
+.pricing ul{list-style: none; box-shadow:0 0 3px 0px #000;}
+.bannerContent p{font-size:17px;}
+.placeholder{height: 300px; margin:50px 0; text-align:center}
+.placeholder p{text-align: left;}
+
+.header-a{ background-color: #549088; text-align: center; color:#FFF; border-radius:4px 4px 0 0; padding:10px; font-weight:bold; font-size:20px;}
+.header-b{ background-color: #2274AC;text-align: center; color:#FFF; border-radius:4px 4px 0 0; padding:10px; font-weight:bold;font-size:20px;}
+.header-c{ background-color: #D8631E;text-align: center; color:#FFF; border-radius:4px 4px 0 0; padding:10px; font-weight:bold;font-size:20px;}
+h3{text-align:left;}
+.pricing ul{background: #FFF!important; margin:10px; padding:15px 0 0 30px; border-radius:4px; height:300px; list-style:circle; /*line-height: 23px; font-size: 14px; color:#000;*/ line-height: 30px;}
+.listImg{height:20px; margin-right:10px;}
+.pricing ul ul{margin:0 0 0 0; padding:0px;}
+.pricing h3{color:#FFF; font-size:20px; margin-left: 15px; text-align: center;}
+.panel-body{padding:30px 20px; text-align: left;}
+.footer{text-align: center; padding:20px; background-color: teal; color:#FFF; border-radius:4px 4px 0 0; margin-top:20px;}
+.footer a{color:#CCC;}
+.duration{font-size:15px; line-height: 30px;}
+h3{color:#6699CC;}
+
+.free-training{text-align: center; margin:60px 0px;}
+h1{font-family: 'Roboto', sans-serif; font-weight:700; font-size:50px; color: #6699CC; }
+h2{font-family: 'Roboto', sans-serif; font-weight:300; color:#777;}
+body{font-size:16px; color:#777; font-family: 'Roboto', sans-serif; font-weight:300; margin:20px 0px;}
